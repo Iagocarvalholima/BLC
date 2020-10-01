@@ -1,0 +1,37 @@
+.Login-Field{
+    border:0px;
+    border-radius: 15px;
+    height:25px;
+    color: #fff;
+    background: rgba(0, 0, 0, .4);
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    padding: .5rem;
+    width: 100%;
+    transition: all .2s linear;
+}
+.Login-Field:focus{
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .7);
+  outline: none;
+}
+.Login-Error{
+  color:red;
+}
+.Login-btn{
+  border-radius: 15px;
+  background: #00C4CC;
+  color: #FDFDFD;
+  padding:10px ;
+  width: 100px;
+  border: 1px;
+  outline: none;
+  margin-top: 1rem;
+
+}
+.Login-btn:hover{
+  cursor: pointer;
+  
+}
+h1{
+  text-align: center;
+}

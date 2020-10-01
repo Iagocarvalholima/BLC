@@ -1,0 +1,2 @@
+JWT = ele é responsavel por criar um token de autenticação (criando um token);
+bcrypt= ele é responsavel por criptografar a senha que esta sendo enviada;
